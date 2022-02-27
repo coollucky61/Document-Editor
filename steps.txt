@@ -1,0 +1,20 @@
+1.create file index.html
+2.Create file style.css
+3.create file steps.js
+4.Add boiler plate to the html file
+5. Rename the title to 'Doc Editor' in html file
+6. Add h4 heading in body as "Doc Editor"
+7. Link css file to HTML via link tag
+8. Link js file to html via script tag and src attribute
+9. Go to getbootstrap.com and copy jsDelivery- CSS only link and paste in 
+   head tag of html before css link.'
+10. Copy jsDelivery- JS link and paste above the js script tag
+11. Open html with live server
+12. Create div with class 'controls'
+13. create button with class 'btn btn-primary' and 
+    'File' as content between tags.Here btn-primary will add 
+    blue color to the button.
+14. Create input field in under div class = controls.
+15. Create another div with class as 'control-btn-container'.
+     This container will hold all the control button for styling.
+
